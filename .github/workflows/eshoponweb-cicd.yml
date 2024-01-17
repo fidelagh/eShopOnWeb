@@ -11,7 +11,6 @@ env:
   SUBSCRIPTION-ID: 844d5645-b45e-40cf-a6fe-d11bc1021f0f
   WEBAPP-NAME: az400-webapp-CiCd1
 
-
 jobs:
   #Build, test and publish .net web project in repository
   buildandtest:
